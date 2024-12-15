@@ -37,20 +37,20 @@ An advanced system that uses STM32F446RE with FreeRTOS and Arduino Nano to imple
 
 ## Analysis
 - Start System
-![Start System](CodeImplementation\Analayzer\systemstart.png)  
+![Start System](systemstart.png)  
 
 - Distance More 10 
-![Distance10](CodeImplementation\Analayzer\12.png)  
+![Distance10](12.png)  
 
 - Distance Less 10 
-![Distance7](CodeImplementation\Analayzer\7.png)  
+![Distance7](7.png)  
 
 - Distance Less 7 
-![Distance6](CodeImplementation\Analayzer\6.png)  
+![Distance6](6.png)  
 
 - Distance Less 5  -> System Stop
-![Distance4](CodeImplementation\Analayzer\4.png)  
+![Distance4](4.png)  
 
 ## CPU Load
 
-![Distance4](CodeImplementation\Analayzer\CPULoad.png)  
+![Distance4](CPULoad.png)  
