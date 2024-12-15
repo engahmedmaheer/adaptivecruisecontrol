@@ -1,0 +1,13 @@
+main.c:91:5:main	5
+main.c:166:6:SystemClock_Config	3
+main.c:214:13:MX_TIM1_Init	7
+main.c:289:13:MX_USART3_UART_Init	2
+main.c:322:13:MX_GPIO_Init	1
+main.c:377:6:SystemWakeUp	1
+main.c:392:6:StartEngine	1
+main.c:407:6:ControlSpeedTask	8
+main.c:470:6:ButtonTaskHandler	2
+main.c:487:1:HAL_UART_RxCpltCallback	4
+main.c:511:6:RecievePackTask	1
+main.c:530:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:547:6:Error_Handler	1
